@@ -1,0 +1,31 @@
+[ {
+  "uid" : "dedb7d0cfbc472bf",
+  "name" : "verifyLoginTest",
+  "time" : {
+    "start" : 1586816093118,
+    "stop" : 1586816098085,
+    "duration" : 4967
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4705207f7c6e14d3",
+  "name" : "verifyPageTitleTest",
+  "time" : {
+    "start" : 1586816093009,
+    "stop" : 1586816093078,
+    "duration" : 69
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "75b500ebd6c8a53d",
+  "name" : "verifySgnuolinkTest",
+  "time" : {
+    "start" : 1586816087280,
+    "stop" : 1586816092535,
+    "duration" : 5255
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

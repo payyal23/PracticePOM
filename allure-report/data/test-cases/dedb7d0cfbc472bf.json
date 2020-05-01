@@ -1,0 +1,102 @@
+{
+  "uid" : "dedb7d0cfbc472bf",
+  "name" : "verifyLoginTest",
+  "fullName" : "com.qa.hubspot.test.LoginPageTest.verifyLoginTest",
+  "historyId" : "3637f3214f8f22137533eececbcac2c0",
+  "time" : {
+    "start" : 1586816093118,
+    "stop" : 1586816098085,
+    "duration" : 4967
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1586816074452,
+      "stop" : 1586816086744,
+      "duration" : 12292
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1586816098091,
+      "stop" : 1586816098889,
+      "duration" : 798
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.qa.hubspot.test.LoginPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.qa.hubspot.test.LoginPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyLoginTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "HuSpotAppSanityTesting"
+  }, {
+    "name" : "suite",
+    "value" : "Sanity Functional Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.qa.hubspot.test.LoginPageTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-KIOI9EU"
+  }, {
+    "name" : "thread",
+    "value" : "840@DESKTOP-KIOI9EU.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e294c6130a9541a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586815708785,
+        "stop" : 1586815715651,
+        "duration" : 6866
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dedb7d0cfbc472bf.json",
+  "parameterValues" : [ ]
+}

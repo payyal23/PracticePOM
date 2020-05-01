@@ -1,0 +1,95 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-KIOI9EU",
+    "children" : [ {
+      "name" : "840@DESKTOP-KIOI9EU.main(1)",
+      "children" : [ {
+        "name" : "verifyPageTitleTest",
+        "uid" : "4705207f7c6e14d3",
+        "parentUid" : "95bdb1ae5d73e8f02815260f3a3e0157",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586816093009,
+          "stop" : 1586816093078,
+          "duration" : 69
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyLoginTest",
+        "uid" : "dedb7d0cfbc472bf",
+        "parentUid" : "95bdb1ae5d73e8f02815260f3a3e0157",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586816093118,
+          "stop" : 1586816098085,
+          "duration" : 4967
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifySgnuolinkTest",
+        "uid" : "75b500ebd6c8a53d",
+        "parentUid" : "95bdb1ae5d73e8f02815260f3a3e0157",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586816087280,
+          "stop" : 1586816092535,
+          "duration" : 5255
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "95bdb1ae5d73e8f02815260f3a3e0157"
+    }, {
+      "name" : "524@DESKTOP-KIOI9EU.main(1)",
+      "children" : [ {
+        "name" : "verifyLoginTest",
+        "uid" : "e294c6130a9541a8",
+        "parentUid" : "ef3d302946be8134c44eaca0a4770138",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586815708785,
+          "stop" : 1586815715651,
+          "duration" : 6866
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifySgnuolinkTest",
+        "uid" : "e200adcc07ba2b80",
+        "parentUid" : "ef3d302946be8134c44eaca0a4770138",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586815703030,
+          "stop" : 1586815708347,
+          "duration" : 5317
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyPageTitleTest",
+        "uid" : "50551f06d0f7059a",
+        "parentUid" : "ef3d302946be8134c44eaca0a4770138",
+        "status" : "passed",
+        "time" : {
+          "start" : 1586815708638,
+          "stop" : 1586815708772,
+          "duration" : 134
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ef3d302946be8134c44eaca0a4770138"
+    } ],
+    "uid" : "bdba5b339f9a509ebeb188cb84150a37"
+  } ]
+}

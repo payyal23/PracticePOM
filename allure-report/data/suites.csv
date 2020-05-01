@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Apr 13 18:14:53 EDT 2020","Mon Apr 13 18:14:58 EDT 2020","4967","HuSpotAppSanityTesting","Sanity Functional Test","com.qa.hubspot.test.LoginPageTest","com.qa.hubspot.test.LoginPageTest","verifyLoginTest","verifyLoginTest",""
+"passed","Mon Apr 13 18:14:53 EDT 2020","Mon Apr 13 18:14:53 EDT 2020","69","HuSpotAppSanityTesting","Sanity Functional Test","com.qa.hubspot.test.LoginPageTest","com.qa.hubspot.test.LoginPageTest","verifyPageTitleTest","verifyPageTitleTest",""
+"passed","Mon Apr 13 18:14:47 EDT 2020","Mon Apr 13 18:14:52 EDT 2020","5255","HuSpotAppSanityTesting","Sanity Functional Test","com.qa.hubspot.test.LoginPageTest","com.qa.hubspot.test.LoginPageTest","verifySgnuolinkTest","verifySgnuolinkTest",""

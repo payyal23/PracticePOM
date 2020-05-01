@@ -1,0 +1,56 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "HuSpotAppSanityTesting",
+    "children" : [ {
+      "name" : "Sanity Functional Test",
+      "children" : [ {
+        "name" : "com.qa.hubspot.test.LoginPageTest",
+        "children" : [ {
+          "name" : "verifySgnuolinkTest",
+          "uid" : "75b500ebd6c8a53d",
+          "parentUid" : "75e1942476394b4377196d330546821f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586816087280,
+            "stop" : 1586816092535,
+            "duration" : 5255
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "verifyPageTitleTest",
+          "uid" : "4705207f7c6e14d3",
+          "parentUid" : "75e1942476394b4377196d330546821f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586816093009,
+            "stop" : 1586816093078,
+            "duration" : 69
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "verifyLoginTest",
+          "uid" : "dedb7d0cfbc472bf",
+          "parentUid" : "75e1942476394b4377196d330546821f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1586816093118,
+            "stop" : 1586816098085,
+            "duration" : 4967
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "75e1942476394b4377196d330546821f"
+      } ],
+      "uid" : "c7da86bbc0fdcfec31a1ba1f19fd12fe"
+    } ],
+    "uid" : "6f590bdaa423e4c96c3c9ed820096dde"
+  } ]
+}
